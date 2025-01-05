@@ -6,3 +6,7 @@
 ## Run
 
 - streamlit run app.py 
+
+## env file
+
+- GOOGLE_API_KEY="your env key"
